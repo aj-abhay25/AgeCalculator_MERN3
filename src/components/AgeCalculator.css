@@ -1,0 +1,22 @@
+.container{
+    text-align: center;
+    margin: 100px;
+}
+
+.container label{
+    font-weight: bold;
+}
+
+.container input{
+    width: 50%;
+    height: 20px;
+    margin: 10px;
+}
+
+.container button{
+    padding: 10px 30px;
+    background-color: rgb(13,110,253);
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
